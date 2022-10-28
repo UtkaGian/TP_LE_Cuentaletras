@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define LIM 50
-#define LIM_fgets 52
+#define LIM_FGETS 52
 
 void Cuenta_Caracteres (char palabra[LIM]);
 
